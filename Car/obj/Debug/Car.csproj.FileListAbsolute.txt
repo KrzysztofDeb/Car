@@ -1,0 +1,6 @@
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\bin\Debug\Car.exe.config
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\bin\Debug\Car.exe
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\bin\Debug\Car.pdb
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\obj\Debug\Car.exe
+F:\Uczelnia\Programy\Samochodyplik\Car\Car\obj\Debug\Car.pdb
